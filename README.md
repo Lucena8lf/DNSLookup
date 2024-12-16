@@ -4,7 +4,7 @@ Tool for the AUTS course with the objective of to automating DNS lookups for som
 
 ### Use
 
-1. First we install the dependencies
+1. First install the dependencies
 
 ```sh
 pip install -r requirements.txt
